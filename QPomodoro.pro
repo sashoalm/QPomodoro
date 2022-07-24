@@ -34,3 +34,6 @@ FORMS += \
         mainwindow.ui
 
 CONFIG += c++17
+
+DISTFILES += \
+    README.md
